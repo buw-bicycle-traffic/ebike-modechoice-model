@@ -1,4 +1,4 @@
-This code is part of a publication by Leonard Arning and Heather Kaths (in press). Further, Steeper, Greener: Implications from an Electric Bicycle Mode Choice Model. International Journal of Sustainable Transportation.
+This code is part of a publication by Leonard Arning and Heather Kaths (2025). Further, Steeper, Greener: Implications from an Electric Bicycle Mode Choice Model. International Journal of Sustainable Transportation. DOI: 10.1080/15568318.2025.2533307
 
 01_spatial_type.ipynb
 
